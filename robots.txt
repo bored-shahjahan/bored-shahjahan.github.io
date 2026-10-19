@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bored-shahjahan.github.io/sitemap.xml
